@@ -6,12 +6,13 @@ author:
 - "additional authors welcome"
 abstract: |
 
-  We develop the General Theory of Animistic Agency to represent embedded cognitive
-  agents. Animistic Agency provides an identity between objective statements and evaluative
-  statements, thereby strengthening inferences related to intentions and refuting Hume's law. This
-  formalism has plausible applications for cognitive science and philosophy, artificial general
-  intelligence alignment, and for the analysis and design of incentive structures within multi-agent
-  organizations such as corporations, governments and markets.
+  Here we introduce the General Theory of Animistic Agency to represent embedded cognitive
+  agents. Animistic Agency constructs an identity between objective statements and evaluative
+  statements, thereby strengthening inferences related to intentions, and refuting the is--ought
+  problem (i.e. Hume's law). This formalism has plausible applications for cognitive science and
+  philosophy, artificial general intelligence alignment, and for the analysis and design of
+  incentive structures within multi-agent organizations, such as corporations, governments and
+  markets.
 
 keywords:
 - agency
@@ -19,9 +20,8 @@ keywords:
 - cognition
 - incentives
 - induction
-- intention
+- is-ought
 - normativity
-- ontology
 - phenomenology
 reference-section-title: true
 nocite: |
