@@ -6,7 +6,11 @@ PANDOC_ARGS="--from markdown+implicit_header_references+inline_notes+implicit_fi
 
 declare -A documents=(
     ["animistic_agency_general_theory"]="00_metadata.md 01_introduction.md 10_general_theory.md 90_about_the_project.md 95_glossary.md 99_references.md"
-#    ["animistic_agency_all"]="00_metadata.md 01_introduction.md 10_general_theory.md 11_embodied_theory.md 12_ecological_theory.md 90_about_the_project.md 95_glossary.md 99_references.md"
+    ["dancing_with_the_stranger"]="81_dancing_with_the_stranger.md 82_knowing_the_dance_floor.md 83_legible_intentions.md"
+    ["on_inferring_intention"]="83_legible_intentions.md"
+    ["what_is_engineering"]="84_what_is_engineering.md"
+    ["bureaucracies_are_structurally_anti_social"]="85_bureaucracies_are_structurally_anti_social.md"
+    ["buildonomy_roadmap"]="89_buildonomy_roadmap.md"
 )
 
 rm -r build/*
