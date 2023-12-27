@@ -27,7 +27,8 @@ at a later time.
    B](https://www.gameb.wiki/index.php?title=An_Introduction_to_Game_B)
    movement. [Metamodernism](https://www.gameb.wiki/index.php?title=Metamodernism), [Strong Towns](
    https://www.strongtowns.org/), [permaculture](https://en.wikipedia.org/wiki/Permaculture), and
-   [doomer optimism](https://www.doomeroptimism.com/).
+   [doomer optimism](https://www.doomeroptimism.com/). [Inter Cooperative
+   Council](https://icc.coop/). [Skywoman/Blackbird](https://www.skywoman.community/about)
 1. **Post Modern Reconceptualizations on the Nature of Progress and History**: Much of the heated
    discourse surrounding new terms like "intersectionality" and "woke" seems to revolve around a new
    sensitivity to how our institutions and collective behavior respond differently to in and out

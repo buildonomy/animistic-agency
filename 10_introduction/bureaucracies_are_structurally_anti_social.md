@@ -68,6 +68,3 @@ expectations naturally lead to this
   * Companies are largely responsible for forming the ecological niche's that we operate
     within. They are the primary ecosystem builders of the mileau within which persons exist. As
     such, they shape preferences inasmuch as they find and respond to preferences.
-
-
-

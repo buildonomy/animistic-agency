@@ -1,0 +1,386 @@
+#+AUTHOR: Andrew Lyjak
+#+EMAIL: andrew.lyjak@gmail.com
+#+OPTIONS: todo:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
+#+OPTIONS: prop:Effort
+#+OPTIONS: ^:{}
+#+STARTUP: indent
+#+COLUMNS: %TODO %PRIORITY(P) %70ITEM(Task) %TAGS %8Effort(Estimated Effort){:} %DEADLINE
+#+TAGS: h3d alyjak sow_1 sow_2 upkeep
+#+PROPERTY: Effort_ALL 0 1:00 2:00 4:00 8:00 16:00 24:00 40:00 80:00
+
+* TODO Buildonomy                                                    :alyjak:
+  :PROPERTIES:
+  :EFFORT:   0:00
+  :END:
+
+** The Book
+*** Introduction
+In which where I'm at and the top level requirements for buildonomy are individually addressed as a
+series of stand-alone essays.
+**** TODO [#B] bayesian_mechanics.md
+Purpose: define reference material and purpose for active inference
+
+- CMEP + blanket index: passively sensing for agentic phenomena
+- The fundamental role of the markov blanket in determining relevance. The manner in which relevance
+  becomes hierarchical via stacking blankets
+- Pull in animistic agency general theory material in order to justify sensing for agency? Also
+  commons feedback loop argument from [[https://digitalgaia.notion.site/Natural-Intelligence-the-Gaia-architecture-v2-draft-April-2023-abe135755c4340849df8b6e3798468ab][Natural Intelligence: the Gaia architecture v2]] section
+  "Endowing ecosystems with Agency"
+
+How do we frame what it means to be a thing both qualitatively and quantitatively. 
+
+**** TODO [#B] bureaucracies_are_structurally_anti_social.md
+What happens with collective organizations have agency but no self-awareness or relevance realizing
+optimization loop.
+**** TODO [#C] existential_orientation.md
+This is a spiritual pointing-at The Good
+**** TODO [#C] legible_intention.md
+Rewrite this essay to not suck:
+
+- Pull out proposed solution
+- Pull in more intention modeling pedagogy justification
+- Side-car animistic agenda
+
+If I have a good summary before 11/20 (4 days!) Might be worth submitting to the [[https://ail-workshop.github.io/AIL4-Workshop/call.html][AIL-4
+Conference]]. The purpose being to interest the relevant academic community into thinking about what
+is and is not good pedagogy for supplementing our folk-psychological understanding of intention
+inference.
+**** TODO [#A] lifecycle_management.md
+What does it mean for a butterfly to be the same identity as a caterpillar and what does that tell
+us about the lifecycles of identity? Introduce and address the adjacent possible. What does assembly
+theory tell us about lifecycles and how state machines are a poor abstraction?
+
+Lifecycle Management: intersection of intention and adjacent possibility
+**** DONE sources_of_relevance.md
+**** DONE surfing_with_the_maelstrom.md
+**** DONE what_is_engineering.md
+**** TODO [#B] taxonomy_of_collective_organization_types
+A commentary and taxonomy of existing (ideas on) collective organizational structures. May be
+redundant with bureaucracies_are_anti_social.
+**** TODO [#A] the_sanghas.md
+The communities most in need of giving their collective organization voice. There are too many
+organizations/apps out there that try to "solve" collective sense-making without being firmly rooted
+in real context (DAOs, game-b, almost everything here:
+https://csensemakers.com/#a4c17b743ec745f6b9da35b5fb165d20). Active Inference teaches this is doomed
+for failure (no dialogical loop). Buildonomy needs to avoid this fate. A set of first order
+intentions must already exist before a new way of collective organization can be adequately tried.
+**** TODO [#A] egregores.md
+**** Calls and Binds
+How we can synthesize lifecycles, egregores, and bayesian mechanics within a call and bind protocol.
+**** Apps don't solve problems
+Why yet another screen interface is not going to solve collective sense-making. Instead, we need to
+offload intention to something that has a different attention and perception than you, then dialogue
+with that thing. The format of the dialogue probably should NOT be human language per-se, but
+something that is differently legible. Procedures as intentions possibly? What if we had alternating
+daily stand ups: one day where we each dialogue with our collective egregore impersonated, the other
+where we dialogue together as the egregore's substrate?
+**** Technology and agency
+New technology has two effects on agency. It changes the markov blankets of existing agents thereby
+changing their consciousness, and/or it introduces new agents by changing the collective dynamics
+within a substrate, introducing new egregores from those interactions.
+**** Finding Affordances
+Affordances are fundamental to the policies central to the expected free energy
+equation. Affordances are a fitted, symbolic representation of an action-perception
+possibility. Planning is therefore dependent on available affordances. They are usually supposed as
+a given, but how can we describe how they might generate? Are they intention-driven? Property
+driven? Are properties affordances themselves?
+*** Design
+**** TODO [#B] adversarial_partnership_feedback_process.md
+**** TODO [#A] buildonomy_cognitive_model.md
+**** TODO [#B] buildonomy_homepage.md
+**** TODO [#C] cognitive_network_design.md
+*** Theory
+**** TODO [#C] dancing_with_the_stranger.md
+**** TODO [#C] knowing_the_dance.md
+**** TODO [#B] general_animistic_theory.md
+**** TODO [#B] ecological_animistic_theory.md
+**** TODO [#C] embodied_animistic_theory.md
+*** TODO Protocol
+*** Case Studies
+**** TODO [#C] meet_joe
+*** Supporting Material
+**** DONE about_me_andrew_lyjak.md
+**** TODO [#B] about_the_project.md
+**** glossary.md
+**** references.md
+* Sales and Marketing
+:PROPERTIES:
+:EFFORT:   0:00
+:END:
+*** TODO Create Articles
+**** [#A] Why buildonomy
+Traditionally, organizations face a trade off between encouraging creativity versus
+efficienciency. To become efficient, the variability of tasks must be constrained. To be creative,
+variability is necessary. This creates an existential dillemma for any organization because their
+environment is constantly evolving. If they are to be successful, they must be efficiently exploit
+their ecological niche and simultaneously creatively evolve to respond to their dynamic environment.
+
+This creates an organizational dilemma. The actions of the organization must be flexible and
+efficient. Therefore, personnel at all levels of the organization must be endowed with the freedom,
+information, and communication protocols necessary to balance these two existential
+imperatives. This way, organizational cognition is properly distributed such that the full potential
+of the collective can be realized.
+
+Buildonomy enables this balance by providing the following high level insights:
+
+1. The difficulty that any agent in a collective organization faces when trying to understand the
+   organizations' **intentions** and how they relate to the actions they are requested to
+   perform. In short, in such a manner that they can easily determine what information is
+   **relevant** towards fulfilling that **intention**.
+
+2. The difficulty any agent in a collective organization faces when trying to demonstrate a new way
+   of doing an action, in describing and comparing their new approach to what is currently available
+   in terms that demonstrate the changes **relevance**.
+
+3. The difficulty any agent in a collective organization faces when demonstrating or describing a
+   novel task such that the collective organization understands the task's **relevance** to the
+   organization
+
+4. The difficulty any agent in a collective organization faces when transforming **scouting**
+   actions into **routine** actions.
+**** [#A] What are Capabilities
+**** What is AESOP
+**** Design your Capabilities
+    :PROPERTIES:
+    :EFFORT:   0
+    :END:
+**** Working with Workers
+    :PROPERTIES:
+    :EFFORT:   0
+    :END:
+*** TODO [#A] Set up website
+:PROPERTIES:
+:EFFORT:   0
+:END:
+**** Set up SEO as well
+*** Market Research
+**** TODO SE Michigan Companies
+:PROPERTIES:
+:EFFORT:   0
+:END:
+**** DONE [#A] Go to automate conference May 22-25
+DEADLINE: <2023-05-22 Mon>
+**** TODO Research PLM/digital twin competitors
+https://www.g2.com/categories/digital-twin
+https://www.g2.com/categories/plm
+
+Try and find out what the total addressible market is. Try and answer the questions from this
+article: [[https://www.thediff.co/archive/100-due-diligence-questions-checklist/?ref=the-diff-newsletter][A Short 100-Question Diligence Checklist]].
+
+Also Explore Project Management space:
+https://coda.io/compare/
+https://www.notion.so/compare-against/notion-vs-monday
+
+Roam Zettlekasten space.
+https://roamresearch.com/
+https://subconscious.network/
+
+**** TODO Create User Survey
+*** Dogfood plan
+Can I use buildonomy to run the business of consulting/developing buildonomy?
+*** DONE [#A] Buildonomy Logo
+*** TODO [#B] Business Cards
+DEADLINE: <2023-05-22 Mon>
+Need logo complete
+** DONE Buy buildonomy.com
+costs about $2k. Do this with initial subscription profits. Bought in order to have that email
+address in order to (hopefully) interact with verses.ai sometime. Also bought google workspace for
+email/document/drive management.
+** Accounting and Law
+*** TODO Become an amateur in accounting and tax law
+[[https://www.irsvideos.gov/Business/SBTW][Small Business Tax Workshop]]
+[[https://www.irs.gov/publications/p3402][Taxation of Limited Liability Companies]]
+**** DONE Decide on Entity Classification Election (IRS form 8832)
+[[https://www.irs.gov/publications/p3402][Publication 3402 (03/2020), Taxation of Limited Liability Companies]]
+
+
+Decision: Stay a pass through entity. Can become a partnership without suffering the 60mo
+re-election limit. Don't want to add the (time+money) expense of managing an S or C-corporation.
+
+Open question: If trying to raise venture funding, will probably have to liquidate, transfer
+ownership of buildonomy.
+
+**Subsequent Elections**
+
+An LLC can elect to change its classification. Generally, once an LLC has elected to change its
+classification, it can't elect again to change its classification during the 60 months after the
+effective date of the election. An election by a newly formed LLC that is effective on the date of
+formation isn't considered a change for purposes of this limitation. For more information and
+exceptions, see [[https://www.law.cornell.edu/cfr/text/26/301.7701-3][Regulations section 301.7701-3(c)]] and the [[https://www.irs.gov/forms-pubs/about-form-8832][Form 8832]] instructions.
+
+An election to change classification can have significant tax consequences based on the following
+transactions that are deemed to occur as a result of the election.
+*** TODO Quarterly Tax Payments
+DEADLINE: <2023-06-05 Mon +3m>
+
+To Michigan and to IRS
+** TODO Development
+:PROPERTIES:
+:EFFORT:   0:00
+:END:
+*** TODO SASS:
+**** TODO GPDR-compliant user management
+**** TODO Credit card subscription billing
+**** TODO Cloud installation
+What architecture?
+What provider?
+*** TODO Service monitoring
+:PROPERTIES:
+:EFFORT:   0
+:END:
+*** TODO AsRun Artifact Abstraction
+*** TODO Custom Tableviews
+
+Requires standardized interface between
+
+- ~model~ $\rightleftarrows$ ~Asrun~
+- ~instance~ $\rightleftarrows$ ~Asrun~
+
+Intent is to create a db object that defines a table and search criteria. The table is mapped to
+users or groups, who have permission to view the table. Can hook in email when the table content
+changes.
+*** TODO Vault
+Need a lattice-style authorization mechanism to control access to CRUD operation/automation
+secrets. This way we can be reasonably sure we don't create a backdoor into connected services by
+the credential management necessary to allow the aggregators to function appropriately.
+**** TODO Search results should be filtered based on user lattice permissions
+This applies to NestedFilter and Version History results in particular.
+*** TODO Interface Interaction Focus Points
+What we're handling here is complex evolving relationships across a spectrum of formalization. Need
+to focus on interfaces for reliable interaction with this information such that operators are
+empowered to maintain it. Notable views include:
+
+- assembly view
+- state machine
+- task definition (ansible runner, etc)
+- aggregator definition
+- table definition
+- Review and Approval Workflows
+- Cross-PLM view (how model, instances, aggregators connect)
+*** TODO Dynamic capability/aggregator definition
+If authorized users can define the data model for aggregators and even capabilities within the
+application itself, that would go a long way to the goal of buildonomy being a universal
+workflow/procedure system.
+
+https://stackoverflow.com/questions/7933596/django-dynamic-model-fields/7934577#7934577
+
+*** TODO Subassemblies
+**** DONE Edit children
+**** DONE Graph View
+n**** DONE Edge Type
+   Type specific edge metadata
+**** TODO Import SpecAssemblies
+**** TODO Logic Nodes:Abstract Spec nodes/Decision Point Nodes:
+   Create Capability/Capabilities to perform the following assembly logic
+
+   1) Option Set Array/List definition
+   2) Procedure/Quality Gate
+   3) Requirement/Documentation/Code Set
+
+   Make disabled Capabilities not display
+**** TODO Track and share a changelog with each subassembly
+*** Production Workflow
+**** pull kit/assembly information from FishBowl
+**** Create a Dashboard for showing workorders
+   Sort, filter (default open only)
+   capacity to view, assign, and close
+**** Map workorders to H3ID-truth'd procedures
+   sub procs for:
+   - calibration
+   - configuration
+   - QC
+**** Add order form for initiating workorders
+   Be able to map to 'build new unit' vs 'configure inventoried unit'
+***** Trigger new inventory order if inventory missing
+**** Create POs in H3ID
+***** Handle GPDR
+***** Specify security constraints for operating outside of VPN
+**** TODO identify the buildstate of units
+Jason is pretty sure that Chris et al. when they want 'next sn/mac' they mean next to build, not
+next to assign.
+*** TODO Email
+**** User Email preferences
+**** Email generation trigger points:
+   - CI
+   - production workflow
+   - unit/group changes
+*** Misc
+**** TODO [#C] Update the Domain Controller with the latest mapping of detector name to ipv6
+**** TODO clone a unit queryset at the version it was at the burn timestamp
+   In a further effort to make burns reproducible, be able to clone a unit query at a specific
+   schema/state in time.
+**** [#C] Datatables filters: integrate select2 selectors for related links
+** Issues
+*** Request Latency and database transactions
+Need to get a handle on request performance.
+- Need to get an end to end profile of request calls
+- Need to dramatically cut down the number of db calls when inside the capabilitymanager
+*** Unit Management when Deleting a Group
+When removing groups, prompt when that will leave units unassigned. In general, when units are
+affected at all by a group removal, the user needs to be included in the decision on how to proceed.
+*** Re-Mapping Units
+When updating a group version, prompt when units are assigned to the old, but not yet fully built as
+to whether they should be re-mapped to the new group version.
+** Features
+
+Provided by GPT-4 and chat GPT
+*** Project Management
+A feature that allows users to manage their projects from start to finish, including setting goals,
+tracking progress, and assigning tasks to team members.
+
+buildonomy would make it easy to manage projects by providing a comprehensive overview of tasks,
+timelines, deliverables, and milestones. Users can also assign tasks, and collaborate on projects
+with team
+**** Setting Goals
+**** Tracking Progress
+**** Assigning Tasks
+*** Version Control
+The application would also allow for version control of designs, bills of materials, and other
+documents. This would enable users to keep track of changes in real-time and avoid conflicts or
+errors in the design or production process.
+**** Track Changes
+**** Branch
+**** Merge
+**** Rollback
+*** Document Management
+A feature that allows users to upload, store, and share documents related to the project, including
+specifications, drawings, and other important files.
+*** Design Tools
+A feature that includes design tools such as 3D modeling software, CAD, and other tools to help
+users create and visualize their projects.
+*** Workflow Automation
+A feature that automates repetitive tasks and workflows, reducing errors and streamlining the
+project process.
+
+Buildonomy would automate various workflows such as approval workflows, notification workflows, and
+other project workflows. This would help streamline the project management process and make it more
+efficient.
+*** Budgeting and Cost Management
+A feature that allows users to manage project budgets, track expenses, and generate reports to help
+with cost management.
+*** Quality Control
+A feature that includes tools to ensure project quality, such as quality assurance checks and
+testing.
+*** Analytics and Reporting
+A feature that provides users with real-time analytics and reporting to help them track progress,
+identify areas for improvement, and make data-driven decisions.
+
+Analytics such as resource utilization, cost breakdowns, and efficiency metrics will help users
+understand how their project is doing and if they need to make any adjustments.
+*** Integration
+A feature that enables users to integrate with other software applications, such as project
+management tools or accounting software.
+*** Mobile Access
+A feature that allows users to access the software application from their mobile devices, enabling
+them to work on the go and stay connected to their projects at all times.
+*** Visual Rendering
+Buildonomy would also allow users to view 3D models of their projects to see how they will look when
+complete. This would help in the design process and make it easier to visualize the final product.
+**** 3D Models
+**** Product History and Family (changes and branches)
+**** Schedule and Gantt Views
+**** Time-series aggregator views
+**** State-machine/Procedure Workflow graphs
+**** Bill of Materials Graphs
