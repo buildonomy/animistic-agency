@@ -1,0 +1,89 @@
+#+AUTHOR: Andrew Lyjak
+#+EMAIL: alyjak@buildonomy.com
+#+OPTIONS: todo:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: tags:nil
+#+OPTIONS: prop:Effort
+#+OPTIONS: ^:{}
+#+STARTUP: indent
+#+COLUMNS: %TODO %PRIORITY(P) %70ITEM(Task) %TAGS %8Effort(Estimated Effort){:} %DEADLINE
+#+PROPERTY: Effort_ALL 0 1:00 2:00 4:00 8:00 16:00 24:00 40:00 80:00
+
+* Phase One Strategy
+[[https://longform.asmartbear.com/rocks-pebbles-sand/][The rock to move]]: Create a [[https://longform.asmartbear.com/slc/][Simple, Lovable, Complete]] mobile app for the Family Function community.
+Monetize the community in order 1) incentivize member contributions, and 2) support the site and
+core software.
+
+Outcome: The Family Function community requires a barebones Buildonomy featureset and is also the
+broadest market available for the concept. By creating fans of the core software through this
+community, Buildonomy can start to evangelize Dynamic Belief Procedures as a solution space for
+collective organization, thereby [[[[https://longform.asmartbear.com/problem/][teaching customer's about the problem]] Buildonomy solves. By
+creating an application that makes families more functional together, adoptees will start to see how
+the system could transfer to their other organizational identities. This way Buildonomy will
+generate potential customers in more lucrative specialized markets who are already aware of the
+problem Buildonomy solves and aware that Buildonomy solves the problem, AND have goodwill towards
+the organization due to their experience with Family Function.
+
+** Why this?
+[[https://longform.asmartbear.com/great-strategy/][What Makes a Strategy Great?]]
+*** Simple
+Family Function requires the clearest SLC of any buildonomy application I have yet brainstormed
+while opening up to the largest audience (English-speaking multi-person households).
+*** Candid
+The Buildonomy ontology is not a standard one. If Buildonomy solves a real problem as described in
+the [Core Hypotheses], customer's likely don't realize they have this problem. The biggest hurdle to
+overcome is increasing awareness of the power of this ontology such that it becomes common
+knowledge.
+*** Decisive
+Does my work support the success of Family Function?
+*** Leveraged
+I have full stack experience and promising connections in young family+startup+aerospace+biomedical,
+so I'm uniquely leveraged to communicate with the most 'ontology adjacent' crowd -- technically
+oriented families with young kids.
+*** Asymmetric
+If Family Function does not grow, the app stack can quickly move to another market by adding
+specialized features the target market requires.
+*** Futuristic
+See the Masterplan
+** Press Release
+[[https://almanac.io/docs/template-amazon-s-internal-press-release-52d69b6ef103c06437bb3a8140ca7cf3][Amazon's Internal Press Release Template]]
+
+** Ideal Customer
+*** Profile
+
+*** Questionnaire
+Google Spreadsheet Questionnaire]]
+*** How I Reach Out
+**** Website
+**** AdWords
+**** LinkedIn/FB network
+** User Stories
+*** Getting Set Up
+**** Signing Up
+**** Setting up a family Intention Graph
+**** Recruiting the Family
+**** Differentiating Family Roles
+Opponent Processing
+**** Setting Pause Points
+**** Tying Functions to Intentions
+*** Generating Content
+**** Generate a dynamic belief procedure from scratch
+**** Redline a procedure
+**** Share redlines
+**** Review and incorporate redlines
+*** Execution
+**** Pictures for Pause Points
+**** Sign Offs for Pause Points
+**** Keep my data secure
+** Milestones
+*** Get Basic Website Running
+
+*** AdWords to get mailing list sign ups
+*** Publish Masterplan on Substack
+*** Get a Progressive Web App in the Android and Apple App Stores
+*** Tie Website to the Family Function Application
+*** Create Membership Levels for Family Function
+*** Populate Family Function repository with ~ten belief procedures
+**** Communication Procs
+**** Family Intentions
+**** Family Functions

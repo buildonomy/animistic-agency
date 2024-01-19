@@ -19,7 +19,7 @@
 *** Introduction
 In which where I'm at and the top level requirements for buildonomy are individually addressed as a
 series of stand-alone essays.
-**** TODO [#B] bayesian_mechanics.md
+**** TODO [#C] bayesian_mechanics.md
 Purpose: define reference material and purpose for active inference
 
 - CMEP + blanket index: passively sensing for agentic phenomena
@@ -29,13 +29,8 @@ Purpose: define reference material and purpose for active inference
   commons feedback loop argument from [[https://digitalgaia.notion.site/Natural-Intelligence-the-Gaia-architecture-v2-draft-April-2023-abe135755c4340849df8b6e3798468ab][Natural Intelligence: the Gaia architecture v2]] section
   "Endowing ecosystems with Agency"
 
-How do we frame what it means to be a thing both qualitatively and quantitatively. 
+How do we frame what it means to be a thing both qualitatively and quantitatively.
 
-**** TODO [#B] bureaucracies_are_structurally_anti_social.md
-What happens with collective organizations have agency but no self-awareness or relevance realizing
-optimization loop.
-**** TODO [#C] existential_orientation.md
-This is a spiritual pointing-at The Good
 **** TODO [#C] legible_intention.md
 Rewrite this essay to not suck:
 
@@ -56,42 +51,20 @@ Lifecycle Management: intersection of intention and adjacent possibility
 **** DONE sources_of_relevance.md
 **** DONE surfing_with_the_maelstrom.md
 **** DONE what_is_engineering.md
-**** TODO [#B] taxonomy_of_collective_organization_types
-A commentary and taxonomy of existing (ideas on) collective organizational structures. May be
-redundant with bureaucracies_are_anti_social.
-**** TODO [#A] the_sanghas.md
+**** TODO [#C] the_sanghas.md
 The communities most in need of giving their collective organization voice. There are too many
 organizations/apps out there that try to "solve" collective sense-making without being firmly rooted
 in real context (DAOs, game-b, almost everything here:
 https://csensemakers.com/#a4c17b743ec745f6b9da35b5fb165d20). Active Inference teaches this is doomed
 for failure (no dialogical loop). Buildonomy needs to avoid this fate. A set of first order
 intentions must already exist before a new way of collective organization can be adequately tried.
-**** TODO [#A] egregores.md
-**** Calls and Binds
-How we can synthesize lifecycles, egregores, and bayesian mechanics within a call and bind protocol.
-**** Apps don't solve problems
-Why yet another screen interface is not going to solve collective sense-making. Instead, we need to
-offload intention to something that has a different attention and perception than you, then dialogue
-with that thing. The format of the dialogue probably should NOT be human language per-se, but
-something that is differently legible. Procedures as intentions possibly? What if we had alternating
-daily stand ups: one day where we each dialogue with our collective egregore impersonated, the other
-where we dialogue together as the egregore's substrate?
-**** Technology and agency
-New technology has two effects on agency. It changes the markov blankets of existing agents thereby
-changing their consciousness, and/or it introduces new agents by changing the collective dynamics
-within a substrate, introducing new egregores from those interactions.
-**** Finding Affordances
-Affordances are fundamental to the policies central to the expected free energy
-equation. Affordances are a fitted, symbolic representation of an action-perception
-possibility. Planning is therefore dependent on available affordances. They are usually supposed as
-a given, but how can we describe how they might generate? Are they intention-driven? Property
-driven? Are properties affordances themselves?
 *** Design
 **** TODO [#B] adversarial_partnership_feedback_process.md
 **** TODO [#A] buildonomy_cognitive_model.md
 **** TODO [#B] buildonomy_homepage.md
-**** TODO [#C] cognitive_network_design.md
-*** Theory
+** Theory
+**** TODO [#C] existential_orientation.md
+This is a spiritual pointing-at The Good
 **** TODO [#C] dancing_with_the_stranger.md
 **** TODO [#C] knowing_the_dance.md
 **** TODO [#B] general_animistic_theory.md

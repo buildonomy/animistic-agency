@@ -13,8 +13,10 @@ declare -A documents=(
     # ["completed_essays"]="10_introduction/legible_intention.md 10_introduction/what_is_engineering.md 10_introduction/surfing_with_the_maelstrom.md 10_introduction/sources_of_relevance.md"
     # ["wip"]="00_metadata/buildonomy.md 10_introduction/legible_intention.md 10_introduction/what_is_engineering.md 10_introduction/surfing_with_the_maelstrom.md 10_introduction/sources_of_relevance.md 10_introduction/existential_orientation.md 10_introduction/egregores.md 10_introduction/bureaucracies_are_structurally_anti_social.md 10_introduction/the_sanghas.md 30_theory/dancing_with_the_stranger.md 30_theory/knowing_the_dance.md 30_theory/general.md 30_theory/ecological.md 30_theory/embodied.md 40_design/adversarial_partnership_feedback_process.md 40_design/buildonomy_cognitive_model.md 40_design/buildonomy_homepage.md 40_design/cognitive_network_design.md 40_design/procedures.md 40_design/sprout.md 90_supporting_material/about_the_project.md 90_supporting_material/about_me_andrew_lyjak.md 90_supporting_material/glossary.md 90_supporting_material/references.md"
     # ["pibbss_application"]="90_supporting_material/pibbss_affiliate_program_application.md"
-    ["buildonomy_value_proposition_whitepaper"]="40_design/buildonomy_value_proposition_whitepaper.md"
+    ["buildonomy_strategy"]="40_design/masterplan.md 40_design/core_hypotheses.md 40_design/family_function_press_release.md 40_design/the_variability_dilemma.md 40_design/what_is_relevance.md 40_design/procedures.md 40_design/the_principal_agent_problem.md"
 )
+
+mkdir -p build out
 
 rm -r build/*
 for EXT in "docx" "tex";

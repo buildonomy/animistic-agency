@@ -1,12 +1,14 @@
 # Survey of the Sanghas
 
-Like a good engineer I end this essay abruptly and awkwardly with a list. My intention is to list
-contemporary thinkers, communities, and memes that I identifies as each challenging assumptions on
-the separation of objective and subjective reality. Each of these groups has insights that deserve
-to be shared with one another. I hope to write about and explore each one on its own terms in later
-essays, relating their lessons back to the field of systems engineering. For now, I must be content
-with simply acknowledging each one, promising to turn each touch point into a full fledged dialogue
-at a later time.
+The intention of this list is to identify thinkers, communities, and memes that each challenge
+typical assumptions on the separation of objective and subjective reality. Each of these groups has
+insights that deserve to be shared with one another. Each is a potential community that would
+welcome a tool like what Buildonomy intends to become in order to better express themselves and
+better exploit their niche in the world.
+
+I hope to write about and explore each one on its own terms in later essays, relating their lessons
+back to the field of systems engineering. For now, I must be content with simply acknowledging each
+one, promising to turn each touch point into a full fledged dialogue at a later time.
 
 1. **The News Landscape**: Notionally objective presentations of current events are being
    increasingly replaced by opinion writers and organizations with a specific political
